@@ -59,6 +59,13 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#project-background">Project Background</a></li>
+    <li><a href="#project-timeline">Project Timeline</a></li>
+    <li><a href="#role-in-the-development-process">Role in the Development Process
+</a></li>
+    <li><a href="#product-features">Product Features</a></li>
+    <li><a href="#technical-highlights">Technical Highlights</a></li>
+    <li><a href="#build-run-deploy-instructions">Build Run Deploy Instructions</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
